@@ -1,9 +1,19 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 nittin is our supreme leader.heil nittin.
 
 this is a sample file created by shane.
 =======
 yo yo yo s to the h to the a to the n to e...
 >>>>>>> main
+=======
+
+hi this is pravin i typed this, now again i changed after correction 
+
+
+=======
+yo yo yo s to the h to the a to the n to e...
+>>>>>>> 6fd2fa3d4005cce420b0330a83fd1a170f8b1b22
+>>>>>>> 4e658ca41cc14dd4bc65d4ca460e216abdaa74d1
 
 Merge
