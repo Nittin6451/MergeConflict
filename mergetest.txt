@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 hi this is pravin i typed this, now again i changed after correction 
 
 
+=======
+yo yo yo s to the h to the a to the n to e...
+>>>>>>> 6fd2fa3d4005cce420b0330a83fd1a170f8b1b22
 
 Merge
